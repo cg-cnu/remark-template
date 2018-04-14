@@ -1,12 +1,14 @@
 
 class: middle, center
 
-### 5.4
-
-# Consise Control Flow with `if let`
+# Template 2
 
 ---
 class: left
 
 # Title 1
 
+---
+class: left
+
+# Title 2
