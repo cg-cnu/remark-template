@@ -1,9 +1,9 @@
 
-class: middle, center
+<!-- class: middle, center -->
 
 ### chapter number
 
-# Template 1
+# Title goes here
 
 ---
 class: left
